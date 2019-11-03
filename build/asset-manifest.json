@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12cbb123.chunk.css",
+    "main.js": "/static/js/main.1c13805d.chunk.js",
+    "main.js.map": "/static/js/main.1c13805d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cedaa9fa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cedaa9fa.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.5113658f.chunk.js": "/static/js/2.5113658f.chunk.js",
+    "static/js/2.5113658f.chunk.js.map": "/static/js/2.5113658f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.753c0534a2807d68ceeaf0523d718fbd.js": "/precache-manifest.753c0534a2807d68ceeaf0523d718fbd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.12cbb123.chunk.css.map": "/static/css/main.12cbb123.chunk.css.map",
+    "static/media/App.css": "/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cedaa9fa.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.5113658f.chunk.js",
+    "static/css/main.12cbb123.chunk.css",
+    "static/js/main.1c13805d.chunk.js"
+  ]
+}
